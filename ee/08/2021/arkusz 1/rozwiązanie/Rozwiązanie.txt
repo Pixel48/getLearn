@@ -1,0 +1,61 @@
+zad.1 
+
+Patrz na kolory
+
+Zad.2
+
+To łatwe
+
+Zad.3
+
+Wchodzisz w przeglądarkę i wpisujesz jej adres podany z tyłu przełącznika -> Login i hasło -> Zmień ustawienia i zapisz
+
+Zad.4
+
+Wchodzisz w przeglądarkę i wpisujesz jej adres podany z tyłu rutera -> Login i hasło -> Network/Sieć -> Lan -> Ip: 172.16.0.1 Maska -> 255.255.255.0
+
+Wchodzisz do WAN -> Aby zmienić trzeba zmienić połączenie na statyczne -> Wpisujesz IP i Bramę podaną w zadaniu (255.128.0.0) -> Dns Wpisujesz w odpowiedne miejsca
+
+Wchodzisz do DHCP I klikasz na Disabled i zapisujesz
+
+Zad.5
+
+Podłączas tak jak na obrazku
+
+Zad.6
+
+1. ls -l chyba? 
+2. whoami lub id
+3. top
+4. lspci | grep -i vga  lub lshw -c display
+5. top lub ps
+
+Upewnij się że masz długopis z czarnym tuszem
+
+Zad.7
+
+Tu trzeba już trochę kombinować (najlepiej graficznie,czyli pulpitowo)
+
+1.Przy prawym górnym rogu ekraniu są strzałki góra i dół, kliknij na nie i wejdź do modyfikuj połączenie
+2.Powinna tam być opcja modyfikuj
+3.Zmień parametry
+
+Zadanie z kursorem
+
+System-> Preferencje-> Mysz
+
+wchodzisz do zakładki ogólne i zapisujesz
+
+Zadanie z czasem
+
+ntpdate-debian lub dpkg-reconfigure tzdata
+
+Zad.8
+
+Panel sterowania -> Sieć -> Centrum sieci -> Zmień ustawienia karty sieciowej -> podaj nazwę -> właściwości -> Protokół TCP/IP -> Zmieniasz ustawienia i zapisujesz
+
+Wybacz tu musisz już sam się postarać
+
+Zad.9 
+
+I tu też
