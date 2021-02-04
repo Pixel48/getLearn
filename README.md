@@ -1,4 +1,13 @@
+<a name="top"/>
+
 # getLearn <!-- omit in toc -->
+[![_last-commit]][last-commit]
+[![_commit-activity-m]][commits]
+<!-- [![_all-contributors]][contributions] -->
+[![_languages-count]][tags]
+[![_repo-size]][zip]
+[![_license]][license]
+
 
 ## Spis treści <!-- omit in toc -->
 1. [Główne założenia projektu](#główne-założenia-projektu)
@@ -7,7 +16,7 @@
    1. [Strony internetowe](#strony-internetowe)
    2. [Serwery Discord](#serwery-discord)
    3. [Repozytoria GitHub](#repozytoria-github)
-4. [Współpraca](#współpraca)
+4. [Współpracak](#współpracak)
    1. [Jak zacząć?](#jak-zacząć)
    2. [Co dalej?](#co-dalej)
    3. [Jak uzyskać bezpośredni dostęp?](#jak-uzyskać-bezpośredni-dostęp)
@@ -19,11 +28,12 @@
       6. [Archiwizuj](#archiwizuj)
 
 ## Główne założenia projektu
-[getLearn](https://github.com/Pixel48/getLearn) ma pomóc w  zbiorowe i zdecentralizowanej nauce oraz archiwizacji opracowanych przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
+[getLearn](https://github.com/Pixel48/getLearn) ma pomóc w  zbiorowej i zdecentralizowanej nauce oraz archiwizacji i opracowania przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
 
-Repozytorinum podzielone jest na segmenty tematyczne, a każda z nich opatrzona jest własnym plikiem [README.md](https://raw.githubusercontent.com/Pixel48/getLearn/master/README.md) przygotowanym na wzór tej strony i omawiający wybraną technologię czy temat
+~~Repozytorinum podzielone jest na segmenty tematyczne, a każdy z nich opatrzony jest własnym plikiem [README.md](https://raw.githubusercontent.com/Pixel48/getLearn/master/README.md) przygotowanym na wzór tej strony i omawiający wybraną technologię czy temat~~
+> Not Ready Yet
 
-Projekt ma służyć jako dynamiczne archiwum rozwijające się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nad któyrm nadzór sprawować będą osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
+Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nad któyrm nadzór sprawować będą osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
 
 Osoby zainteresowane aktywnym udziałem w rozwuj projektu zapraszamy do sekcji [***Współpraca***](#współpraca)
 
@@ -35,7 +45,7 @@ Osoby zainteresowane aktywnym udziałem w rozwuj projektu zapraszamy do sekcji [
     - [ ] EE.09
     - [x] [EE.08](https://github.com/Pixel48/getLearn/tree/master/ee/08)
     - [ ] EE.03
-  - [x] Nauka programowania
+  - [x] [Nauka programowania](https://github.com/Pixel48/getLearn/tree/master/programming)
     - [x] [C++](https://github.com/Pixel48/getLearn/tree/master/programming/cpp)
     - [ ] Python
     - [ ] JavaScript
@@ -74,7 +84,7 @@ Osoby zainteresowane aktywnym udziałem w rozwuj projektu zapraszamy do sekcji [
   - [MATURA-INFORMATYKA](https://github.com/wernexnrs123/MATURA-INFORMATYKA)  
     Oparty o markdown zbiór wiedzy teoretycznej
 
-## Współpraca
+## Współpracak
 ### Jak zacząć?
 1. Stwórz fork'a repozytorium pod swoim kontem GitHub i sklonuj je na swoją maszynę, do lokalnej kopii repozytorium
    ```git
@@ -101,22 +111,42 @@ Osoby zainteresowane aktywnym udziałem w rozwuj projektu zapraszamy do sekcji [
 
 ### Jak uzyskać bezpośredni dostęp?
 #### Wprowadzaj zmiany
-Dodawaj nowe projekty i ulepszaj istniejące. Osoby aktywnie rozwijające projekt na pewno szybko zostaną zauważone - z założenia tym projekt ma sie opierać
+Dodawaj nowe projekty i ulepszaj istniejące. Osoby aktywnie rozwijające projekt na pewno szybko zostaną zauważone
 
 #### Prowadź wykłady
-Ucz innych tego, czego potrafisz nauczyć i zapowiadaj swoje lekcje. [Serwery Discord](#serwery-discord) są otwarte dla wszystkich, ale będą bezużyteczne, jeżeli wszyscy będziemy czekać na nauczyciela
+Ucz innych tego, czego potrafisz nauczyć i zapowiadaj swoje lekcje. [Serwery Discord](#serwery-discord) są otwarte dla wszystkich, ale będą bezużyteczne, jeżeli będziemy tylko czekać na nauczyciela
 
 #### Pomagaj innym
-Odpowiadaj na pytania, doradzaj i wyjaśniaj. Jeżeli potrafisz pomóc - pomagaj. Szybko staniesz się rozpoznawalny na [serwerach](#serwery-discord) i uzyskasz odpowiednie rangi. Regularnie sprawdzamy, czy w społeczności nie pojawił się ktoś odpowiedni do nadzoru nad projektem
+Odpowiadaj na pytania, doradzaj, wyjaśniaj. Jeżeli potrafisz pomóc - pomagaj. Szybko staniesz się rozpoznawalny na [serwerach](#serwery-discord) i uzyskasz odpowiednie rangi. Regularnie sprawdzamy, czy w społeczności nie pojawił się ktoś odpowiedni do nadzoru nad projektem
 
 #### Bądź ogarnięty
-Używaj prawdziwych nazw plików i nie trzymaj wszystkich kawałków projektu w najwyższym folderze. Nik tutaj nie ma czasu ani ochoty szukać rozwiązania w przydługiej liście ciągów losowych znaków z rozszerzeniami na końcu
+Używaj prawdziwych nazw plików i nie trzymaj wszystkich kawałków projektu w podstawowym folderze. Nik nie ma czasu ani ochoty szukać jednego rozwiązania w przydługiej liście ciągów losowych znaków
 
 #### Nie bądź dzbanem
-Traktuj innych z szacunkiem, nie używaj przekleństw jako substytutu interpunkcji. Bądź otwarty na dyskusje i czerp z krytyki. Nie musisz podnosić kultury dyskusji, ale na pewno nie warto jej obniżać
+Traktuj innych z szacunkiem, nie używaj przekleństw jako interpunkcji. Bądź otwarty na dyskusje i czerp z krytyki. Nie musisz podnosić kultury dyskusji, ale na pewno nie warto jej obniżać
 
 #### Archiwizuj
-Jeżeli uczestniczysz w lekcji, nagraj ją (oczywiście **za zgodą nauczyciela**); Jeżeli nauczyciel nie rozwija repo, poproś go o pliki. Nagranie będzie można wrzucić do folderu świerzego projektu, razem z plikami. Dla kogoś obecność tak zarchiwizowanego projektu może być kewstią *"Być albo nie być"*
+Jeżeli uczestniczysz w lekcji, nagraj ją (oczywiście **za zgodą nauczyciela**); Jeżeli nauczyciel nie wrzuci projektu do repozytorium, poproś go o pliki (i spytaj, czy ty możesz to zrobić). Nagranie będzie można wrzucić obok świerzego projektu. Dla kogoś tak zapisana lekcja może być kewstią *"Być albo nie być"*
 
 ## Licencja <!-- omit in toc -->
-Projekt objęty jest licencją [GNU GPL 3](https://github.com/Pixel48/getLearn/blob/master/LICENSE)
+Projekt objęty jest licencją [GNU GPL 3][license]
+
+[_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn
+[last-commit]: https://github.com/Pixel48/getLearn/commit/master
+
+[_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn
+[_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn
+[_commit-activity-y]: https://img.shields.io/github/commit-activity/y/Pixel48/getLearn
+[commits]: https://github.com/Pixel48/getLearn/commits/master
+
+[_all-contributors]: https://img.shields.io/github/all-contributors/Pixel48/getLearn
+[contributions]: https://github.com/Pixel48/getLearn/graphs/contributors
+
+[_languages-count]: https://shields.io/github/languages/count/Pixel48/getLearn
+[tags]: https://github.com/Pixel48/getLearn/releases
+
+[_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn
+[zip]: https://github.com/Pixel48/getLearn/archive/master.zip
+
+[_license]: https://shields.io/github/license/Pixel48/getLearn
+[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
