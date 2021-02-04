@@ -21,22 +21,22 @@
 ## Główne założenia projektu
 [getLearn](https://github.com/Pixel48/getLearn) ma pomóc w  zbiorowe i zdecentralizowanej nauce oraz archiwizacji opracowanych przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
 
-Repozytorinum podzielone jest na segmenty tematyczne, a każda z nich opatrzona jest własnym plikiem [README.md](https://raw.githubusercontent.com/Pixel48/getLearn/develop/README.md) przygotowanym na wzór tej strony i omawiający wybraną technologię czy temat
+Repozytorinum podzielone jest na segmenty tematyczne, a każda z nich opatrzona jest własnym plikiem [README.md](https://raw.githubusercontent.com/Pixel48/getLearn/master/README.md) przygotowanym na wzór tej strony i omawiający wybraną technologię czy temat
 
 Projekt ma służyć jako dynamiczne archiwum rozwijające się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nad któyrm nadzór sprawować będą osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
 
 Osoby zainteresowane aktywnym udziałem w rozwuj projektu zapraszamy do sekcji [***Współpraca***](#współpraca)
 
 ## Lista kategorii rozwijanych i planowanych projektów
-  - [x] [Matura](https://github.com/Pixel48/getLearn/tree/develop/matura)
-    - [x] [R. Infomatyka](https://github.com/Pixel48/getLearn/tree/develop/matura/inf)
+  - [x] [Matura](https://github.com/Pixel48/getLearn/tree/master/matura)
+    - [x] [R. Infomatyka](https://github.com/Pixel48/getLearn/tree/master/matura/inf)
     - [ ] R. Matematyka
-  - [x] [Egzaminy kwalifikacji zawodowych](https://github.com/Pixel48/getLearn/tree/develop/ee)
+  - [x] [Egzaminy kwalifikacji zawodowych](https://github.com/Pixel48/getLearn/tree/master/ee)
     - [ ] EE.09
-    - [x] [EE.08](https://github.com/Pixel48/getLearn/tree/develop/ee/08)
+    - [x] [EE.08](https://github.com/Pixel48/getLearn/tree/master/ee/08)
     - [ ] EE.03
   - [x] Nauka programowania
-    - [x] [C++](https://github.com/Pixel48/getLearn/tree/develop/programming/cpp)
+    - [x] [C++](https://github.com/Pixel48/getLearn/tree/master/programming/cpp)
     - [ ] Python
     - [ ] JavaScript
     - [ ] PHP
