@@ -1,52 +1,49 @@
-<a name="top"/>
-
 # getLearn <!-- omit in toc -->
 [![_last-commit]][last-commit]
-[![_commit-activity-m]][commits]
-<!-- [![_all-contributors]][contributions] -->
+[![_commit-activity-m]][commits] <!-- [![_all-contributors]][contributions] -->
 [![_languages-count]][tags]
 [![_repo-size]][zip]
 [![_license]][license]
 
-
 ## Spis treści <!-- omit in toc -->
-1. [Główne założenia projektu](#główne-założenia-projektu)
-2. [Lista kategorii rozwijanych i planowanych projektów](#lista-kategorii-rozwijanych-i-planowanych-projektów)
-3. [Przydatne linki](#przydatne-linki)
-   1. [Strony internetowe](#strony-internetowe)
-   2. [Serwery Discord](#serwery-discord)
-   3. [Repozytoria GitHub](#repozytoria-github)
-4. [Współpracak](#współpracak)
-   1. [Jak zacząć?](#jak-zacząć)
-   2. [Co dalej?](#co-dalej)
-   3. [Jak uzyskać bezpośredni dostęp?](#jak-uzyskać-bezpośredni-dostęp)
-      1. [Wprowadzaj zmiany](#wprowadzaj-zmiany)
-      2. [Prowadź wykłady](#prowadź-wykłady)
-      3. [Pomagaj innym](#pomagaj-innym)
-      4. [Bądź ogarnięty](#bądź-ogarnięty)
-      5. [Nie bądź dzbanem](#nie-bądź-dzbanem)
-      6. [Archiwizuj](#archiwizuj)
+- [Główne założenia projektu](#główne-założenia-projektu)
+- [Lista kategorii rozwijanych i planowanych projektów](#lista-kategorii-rozwijanych-i-planowanych-projektów)
+- [Przydatne linki](#przydatne-linki)
+  - [Strony internetowe](#strony-internetowe)
+  - [Serwery Discord](#serwery-discord)
+  - [Repozytoria GitHub](#repozytoria-github)
+- [Współpraca](#współpraca)
+  - [Jak zacząć?](#jak-zacząć)
+  - [Co dalej?](#co-dalej)
+  - [Pull request vs Direct access](#pull-request-vs-direct-access)
+  - [Jak uzyskać bezpośredni dostęp?](#jak-uzyskać-bezpośredni-dostęp)
+    - [Wprowadzaj zmiany](#wprowadzaj-zmiany)
+    - [Prowadź wykłady](#prowadź-wykłady)
+    - [Pomagaj innym](#pomagaj-innym)
+    - [Bądź ogarnięty](#bądź-ogarnięty)
+    - [Nie bądź dzbanem](#nie-bądź-dzbanem)
+    - [Archiwizuj](#archiwizuj)
 
 ## Główne założenia projektu
 [getLearn](https://github.com/Pixel48/getLearn) ma pomóc w  zbiorowej i zdecentralizowanej nauce oraz archiwizacji i opracowania przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
 
-~~Repozytorinum podzielone jest na segmenty tematyczne, a każdy z nich opatrzony jest własnym plikiem [README.md](https://raw.githubusercontent.com/Pixel48/getLearn/master/README.md) przygotowanym na wzór tej strony i omawiający wybraną technologię czy temat~~
+~~Repozytorinum podzielone jest na segmenty tematyczne, a każdy z nich opatrzony jest własną menu projektów, omawiający wybraną technologię czy temat~~
 > Not Ready Yet
 
-Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nad któyrm nadzór sprawować będą osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
+Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nadzorowany przez osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
 
-Osoby zainteresowane aktywnym udziałem w rozwuj projektu zapraszamy do sekcji [***Współpraca***](#współpraca)
+Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji [***Współpraca***](#współpraca)
 
 ## Lista kategorii rozwijanych i planowanych projektów
-  - [x] [Matura](https://github.com/Pixel48/getLearn/tree/master/matura)
-    - [x] [R. Infomatyka](https://github.com/Pixel48/getLearn/tree/master/matura/inf)
+  - [x] [Matura](/matura/)
+    - [x] [R. Infomatyka](/matura/inf/)
     - [ ] R. Matematyka
-  - [x] [Egzaminy kwalifikacji zawodowych](https://github.com/Pixel48/getLearn/tree/master/ee)
+  - [x] [Egzaminy kwalifikacji zawodowych](/ee/)
     - [ ] EE.09
-    - [x] [EE.08](https://github.com/Pixel48/getLearn/tree/master/ee/08)
+    - [x] [EE.08](/ee/08/)
     - [ ] EE.03
-  - [x] [Nauka programowania](https://github.com/Pixel48/getLearn/tree/master/programming)
-    - [x] [C++](https://github.com/Pixel48/getLearn/tree/master/programming/cpp)
+  - [x] [Nauka programowania](/programming/)
+    - [x] [C++](/programming/cpp/)
     - [ ] Python
     - [ ] JavaScript
     - [ ] PHP
@@ -61,10 +58,10 @@ Osoby zainteresowane aktywnym udziałem w rozwuj projektu zapraszamy do sekcji [
   - [ARKUSZE.PL/informatyka](https://arkusze.pl/informatyka-matura-poziom-rozszerzony/)  
     Archiwum arkuszy maturalnych z informatyki
 
-  - w3schools.com  
+  - [w3schools.com](https://w3schools.com)  
     Obszerna baza wiedzy z zakresu programowania
     
-  - pythontutor.com  
+  - [pythontutor.com](https://pythontutor.com)  
     Wizualizacja działania kodu
 
 ### Serwery Discord
@@ -84,7 +81,7 @@ Osoby zainteresowane aktywnym udziałem w rozwuj projektu zapraszamy do sekcji [
   - [MATURA-INFORMATYKA](https://github.com/wernexnrs123/MATURA-INFORMATYKA)  
     Oparty o markdown zbiór wiedzy teoretycznej
 
-## Współpracak
+## Współpraca
 ### Jak zacząć?
 1. Stwórz fork'a repozytorium pod swoim kontem GitHub i sklonuj je na swoją maszynę, do lokalnej kopii repozytorium
    ```git
@@ -104,10 +101,17 @@ Osoby zainteresowane aktywnym udziałem w rozwuj projektu zapraszamy do sekcji [
    > **Note:** W nazwach gałęzi staraj się nie używać dużych liter, podkreśleń i spacji. Niektórzy używają git'a w terminalu i nie ma sensu utrudniać im życia
 
 ### Co dalej?
-1. Dodaj lub napisz pliki swojego projektu i zatwierdzaj kolejne zmiany w repozytorium. Pamiętaj o odpowiednim opisywaniu wprowadzanych zmian
+1. Napisz lub dodaj pliki swojego projektu i zatwierdzaj kolejne zmiany w repozytorium. Pamiętaj o odpowiednim opisywaniu wprowadzanych zmian
 2. Kiedy skończysz połącz gałąź swojego profektu z gałęzią `develop` (pamiętaj o użyciu flagi `--no-ff`)
 > **Note:** Pamiętaj również o zaktualizowaniu repozytorium przed włączaniem zmian do `develop`
-> 3. Na stronie GitHub fork'a stwórz pull request'a z nazwą i opisem prawidłowo... opisującym wprowadzone zmiany
+3. W głównym kataloguodaj projektu napisz plik README.md opisujący twój projekt. W pierwszej linijce umieść jego nazwę według schematu
+   ```markdown
+   
+   ```
+4. Na stronie GitHub fork'a stwórz pull request'a z nazwą i opisem prawidłowo... opisującym wprowadzone zmiany
+
+### Pull request vs Direct access
+Używając fork'ow i pull request'ów proponujesz wprowadzenie swoich zmian do repozytorium. Użytkownicy z **dostępem bezpośrednim** decydują o ich akceptacji i mogą dodawać zmiany bezpośrednio w repozytorium 
 
 ### Jak uzyskać bezpośredni dostęp?
 #### Wprowadzaj zmiany
@@ -120,13 +124,13 @@ Ucz innych tego, czego potrafisz nauczyć i zapowiadaj swoje lekcje. [Serwery Di
 Odpowiadaj na pytania, doradzaj, wyjaśniaj. Jeżeli potrafisz pomóc - pomagaj. Szybko staniesz się rozpoznawalny na [serwerach](#serwery-discord) i uzyskasz odpowiednie rangi. Regularnie sprawdzamy, czy w społeczności nie pojawił się ktoś odpowiedni do nadzoru nad projektem
 
 #### Bądź ogarnięty
-Używaj prawdziwych nazw plików i nie trzymaj wszystkich kawałków projektu w podstawowym folderze. Nik nie ma czasu ani ochoty szukać jednego rozwiązania w przydługiej liście ciągów losowych znaków
+Używaj prawdziwych nazw plików i nie trzymaj wszystkich kawałków projektu w podstawowym folderze. Nikt nie ma czasu ani ochoty szukać jednego rozwiązania w przydługiej liście ciągów losowych znaków
 
 #### Nie bądź dzbanem
-Traktuj innych z szacunkiem, nie używaj przekleństw jako interpunkcji. Bądź otwarty na dyskusje i czerp z krytyki. Nie musisz podnosić kultury dyskusji, ale na pewno nie warto jej obniżać
+Traktuj innych z szacunkiem, nie używaj przekleństw jako interpunkcji. Bądź otwarty na dyskusje i czerp z krytyki. Nie musisz podnosić kultury dyskusji, ale też jej nie obniżaj
 
 #### Archiwizuj
-Jeżeli uczestniczysz w lekcji, nagraj ją (oczywiście **za zgodą nauczyciela**); Jeżeli nauczyciel nie wrzuci projektu do repozytorium, poproś go o pliki (i spytaj, czy ty możesz to zrobić). Nagranie będzie można wrzucić obok świerzego projektu. Dla kogoś tak zapisana lekcja może być kewstią *"Być albo nie być"*
+Jeżeli uczestniczysz w lekcji, nagraj ją (oczywiście **za zgodą nauczyciela**); Jeżeli nauczyciel nie wrzuci projektu do repozytorium, poproś go o pliki (i spytaj, czy ty możesz to zrobić). Nagranie będzie można wrzucić obok świerzego projektu. Dla kogoś to może być kwestia jego *"Być albo nie być"*
 
 ## Licencja <!-- omit in toc -->
 Projekt objęty jest licencją [GNU GPL 3][license]
