@@ -106,7 +106,7 @@ Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji 
 > **Note:** Pamiętaj również o zaktualizowaniu repozytorium przed włączaniem zmian do `develop`
 3. W głównym kataloguodaj projektu napisz plik README.md opisujący twój projekt. W pierwszej linijce umieść jego nazwę według schematu
    ```markdown
-   
+   # [Project name](..)
    ```
 4. Na stronie GitHub fork'a stwórz pull request'a z nazwą i opisem prawidłowo... opisującym wprowadzone zmiany
 
