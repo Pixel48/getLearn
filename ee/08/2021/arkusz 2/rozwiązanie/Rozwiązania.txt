@@ -1,0 +1,35 @@
+Zadanie 1 i 2 musisz sam ogarnąć
+
+Zad.3
+
+Przeglądarka -> wpisujesz adres przełącznika z tyłu -> po logowaniu, Ip: 10.10.10.2 Maska: 255.255.255.0 Brama 10.10.10.1  Zapisujesz
+
+Zad.4
+
+Przeglądarka -> wpisujesz adres rutera z tyłu -> Network i LAN: IP:192.168.1.1  Maska:255.255.255.128
+DHCP -> Disabled
+WAN -> IP: 192.158.1.100 Maska 255.255.255.0  
+Brama: podane
+DNS: Podaj
+
+Zad.5
+
+Nie jest skomplikowane
+
+Zad.6
+
+1. ls -l       2..id       3.top      4.lscpi       5.ps
+
+Zad.7
+
+Sprawdź ustawienia
+
+timedatectl list-timezones | grep -i prague chyba???
+
+setterm --blink off
+
+
+Zad.8
+
+Wybacz poradzisz sobie
+
