@@ -27,7 +27,7 @@
 
 Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nadzorowany przez osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
 
-Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji [***Współpraca***](#współpraca)
+Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji [***Współpraca***](./docs/CONTRIBUTING.md)
 
 ## Korzystanie z projektu
 
