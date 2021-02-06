@@ -42,8 +42,7 @@ Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć
     - [x] [C++](../programming/cpp/)
     - [ ] Python
     - [x] [JavaScript](../programming/js/)
-    - [ ] PHP
-    - [ ] SQL
+    - [x] [PHP](../programming/php/)
   - [ ] GitHub
     - [ ] Git
     - [ ] GitHub
