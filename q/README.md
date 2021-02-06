@@ -22,4 +22,4 @@ Technik elektronik
 Projekt objęty jest licencją [GNU GPL 3][license]
 
 [root]: https://github.com/Pixel48/getLearn
-[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
+[license]: https://github.com/Pixel48/getLearn/blob/master/docs/LICENSE
