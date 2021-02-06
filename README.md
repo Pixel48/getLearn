@@ -5,54 +5,75 @@
 [![_repo-size]][zip]
 [![_license]][license]
 
-## Spis treści <!-- omit in toc -->
+<center>
+<img src="https://shields.io/badge/project_status-Work_in_progress-eb0?style=for-the-badge"/>
+</center>
+
+<details open>
+<summary><u>Spis treści</u></summary>
+
 - [Główne założenia projektu](#główne-założenia-projektu)
-- [Lista kategorii rozwijanych i planowanych projektów](#lista-kategorii-rozwijanych-i-planowanych-projektów)
+- [Korzystanie z projektu](#korzystanie-z-projektu)
+  - [Praca z projektem](#praca-z-projektem)
+  - [Rozwijanie projektu](#rozwijanie-projektu)
+  - [Budowanie społeczności](#budowanie-społeczności)
 - [Przydatne linki](#przydatne-linki)
   - [Strony internetowe](#strony-internetowe)
   - [Serwery Discord](#serwery-discord)
   - [Repozytoria GitHub](#repozytoria-github)
-- [Współpraca](#współpraca)
-  - [Jak zacząć?](#jak-zacząć)
-  - [Co dalej?](#co-dalej)
-  - [Pull request vs Direct access](#pull-request-vs-direct-access)
-  - [Jak uzyskać bezpośredni dostęp?](#jak-uzyskać-bezpośredni-dostęp)
-    - [Wprowadzaj zmiany](#wprowadzaj-zmiany)
-    - [Prowadź wykłady](#prowadź-wykłady)
-    - [Pomagaj innym](#pomagaj-innym)
-    - [Bądź ogarnięty](#bądź-ogarnięty)
-    - [Nie bądź dzbanem](#nie-bądź-dzbanem)
-    - [Archiwizuj](#archiwizuj)
+  - [Praca z Git](#praca-z-git)
+</details>
 
 ## Główne założenia projektu
-[getLearn](https://github.com/Pixel48/getLearn) ma pomóc w  zbiorowej i zdecentralizowanej nauce oraz archiwizacji i opracowania przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
-
-~~Repozytorinum podzielone jest na segmenty tematyczne, a każdy z nich opatrzony jest własną menu projektów, omawiający wybraną technologię czy temat~~
-> Not Ready Yet
+[getLearn][root] ma pomóc w  zbiorowej i zdecentralizowanej nauce oraz archiwizacji i opracowania przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
 
 Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nadzorowany przez osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
 
 Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji [***Współpraca***](#współpraca)
 
-## Lista kategorii rozwijanych i planowanych projektów
+## Korzystanie z projektu
+
+<details>
+<summary><u>Lista kategorii planowanych i rozwijanych projektów</u></summary>
+
   - [x] [Matura](/matura/)
-    - [x] [R. Infomatyka](/matura/inf/)
-    - [ ] R. Matematyka
-  - [x] [Egzaminy kwalifikacji zawodowych](/ee/)
-    - [ ] EE.09
-    - [x] [EE.08](/ee/08/)
-    - [ ] EE.03
-  - [x] [Nauka programowania](/programming/)
+    - [x] [Informatyka rozszerzona](/matura/inf/)
+    - [ ] Matematyka rozszerzona
+  - [ ] [Kwalifikacje zawodowe](q/)
+    - [x] [Technik-informatyk](q/ee/)
+      - [ ] EE.09
+      - [x] [EE.08](q/ee/08)
+    - [ ] Technik-elektronik
+      - [ ] EE.03
+  - [x] [Programowanie](/programming/)
     - [x] [C++](/programming/cpp/)
     - [ ] Python
-    - [ ] JavaScript
+    - [x] [JavaScript](programming/js/)
     - [ ] PHP
     - [ ] SQL
-  - [ ] Nauka pracy z git
-    - [ ] git
+  - [ ] GitHub
+    - [ ] Git
     - [ ] GitHub
     - [ ] Markdown
-    
+    - [ ] Mathpix Markdown
+</details>
+
+### Praca z projektem
+Jeżeli chcesz jedynie przejrzeć lub pobrać wybrane pliki, wbudowana przeglądarka repozytoriów [na górze strony](#) powinna wystarczyć
+
+W sytuacji, kiedy chcesz eksperymentować na plikach w projekcie lub poprać całą jego zawartość możesz sklonować ( `git clone` ) lub użyć zielonego przycisku <code style="color:green">Code</code> [na górze strony](#)
+
+### Rozwijanie projektu
+Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję wybranej technologii, chcesz zaproponować nową kategorię lub po prostu zauważyłeś błąd - SUPER! Dzięki tobie ktoś lepiej zda egzamin ^^
+
+<center style="font-size:175%; padding-bottom:5px">Zapraszamy do sekcji <a href="docs/CONTRIBUTING.md"><em>Współpraca</em></a></center>
+
+### Budowanie społeczności
+Jeżeli:
+- znasz maturzystę lub przyszłego technika informatyki - podlinkuj mu [link][root]
+- nauczyłeś się tu czegoś wartościowego - rozważ [zostawienie gwiazdki](#)
+- chcesz być na bierząco z nowymi projektami - pomyśl o [obserwacji repozytorium](#) 
+
 ## Przydatne linki
 ### Strony internetowe
   - [ARKUSZE.PL/informatyka](https://arkusze.pl/informatyka-matura-poziom-rozszerzony/)  
@@ -81,59 +102,17 @@ Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji 
   - [MATURA-INFORMATYKA](https://github.com/wernexnrs123/MATURA-INFORMATYKA)  
     Oparty o markdown zbiór wiedzy teoretycznej
 
-## Współpraca
-### Jak zacząć?
-1. Stwórz fork'a repozytorium pod swoim kontem GitHub i sklonuj je na swoją maszynę, do lokalnej kopii repozytorium
-   ```git
-   git clone https://github.com/Pixel48/getLearn.git
-   ```
-   > **Note:** Użyj konta, które będziesz mógł udostępnić przez Discord i odwrotnie - [Serwery Discord](#serwery-discord) są dość mocno powiązane z projektem
-2. Zmień nazwę domyślnie ustawionej gałęzi `origin` na `fork`, oraz dodaj oryginalne repozytorium jako `origin` (umożliwi to aktualizację fork'a)
-   ```git
-   git branch -m origin fork
-   git branch add origin https://github.com/Pixel48/getLearn.git
-   ```
-3. Stwórz odchodzącą od gałęzi `origin/develop` gałąź nazwaną według schematu
-   ```git
-   git checkout origin/develop
-   git checkout -b <kategoria>/<podkategoria>/<nazwa_projektu>
-   ```
-   > **Note:** W nazwach gałęzi staraj się nie używać dużych liter, podkreśleń i spacji. Niektórzy używają git'a w terminalu i nie ma sensu utrudniać im życia
+### Praca z Git
+  - [Git for Windows](https://gitforwindows.org/)  
+    Konsola git w systemie windows
 
-### Co dalej?
-1. Napisz lub dodaj pliki swojego projektu i zatwierdzaj kolejne zmiany w repozytorium. Pamiętaj o odpowiednim opisywaniu wprowadzanych zmian
-2. Kiedy skończysz połącz gałąź swojego profektu z gałęzią `develop` (pamiętaj o użyciu flagi `--no-ff`)
-> **Note:** Pamiętaj również o zaktualizowaniu repozytorium przed włączaniem zmian do `develop`
-3. W głównym kataloguodaj projektu napisz plik README.md opisujący twój projekt. W pierwszej linijce umieść jego nazwę według schematu
-   ```markdown
-   # [Project name](..)
-   ```
-4. Na stronie GitHub fork'a stwórz pull request'a z nazwą i opisem prawidłowo... opisującym wprowadzone zmiany
-
-### Pull request vs Direct access
-Używając fork'ow i pull request'ów proponujesz wprowadzenie swoich zmian do repozytorium. Użytkownicy z **dostępem bezpośrednim** decydują o ich akceptacji i mogą dodawać zmiany bezpośrednio w repozytorium 
-
-### Jak uzyskać bezpośredni dostęp?
-#### Wprowadzaj zmiany
-Dodawaj nowe projekty i ulepszaj istniejące. Osoby aktywnie rozwijające projekt na pewno szybko zostaną zauważone
-
-#### Prowadź wykłady
-Ucz innych tego, czego potrafisz nauczyć i zapowiadaj swoje lekcje. [Serwery Discord](#serwery-discord) są otwarte dla wszystkich, ale będą bezużyteczne, jeżeli będziemy tylko czekać na nauczyciela
-
-#### Pomagaj innym
-Odpowiadaj na pytania, doradzaj, wyjaśniaj. Jeżeli potrafisz pomóc - pomagaj. Szybko staniesz się rozpoznawalny na [serwerach](#serwery-discord) i uzyskasz odpowiednie rangi. Regularnie sprawdzamy, czy w społeczności nie pojawił się ktoś odpowiedni do nadzoru nad projektem
-
-#### Bądź ogarnięty
-Używaj prawdziwych nazw plików i nie trzymaj wszystkich kawałków projektu w podstawowym folderze. Nikt nie ma czasu ani ochoty szukać jednego rozwiązania w przydługiej liście ciągów losowych znaków
-
-#### Nie bądź dzbanem
-Traktuj innych z szacunkiem, nie używaj przekleństw jako interpunkcji. Bądź otwarty na dyskusje i czerp z krytyki. Nie musisz podnosić kultury dyskusji, ale też jej nie obniżaj
-
-#### Archiwizuj
-Jeżeli uczestniczysz w lekcji, nagraj ją (oczywiście **za zgodą nauczyciela**); Jeżeli nauczyciel nie wrzuci projektu do repozytorium, poproś go o pliki (i spytaj, czy ty możesz to zrobić). Nagranie będzie można wrzucić obok świerzego projektu. Dla kogoś to może być kwestia jego *"Być albo nie być"*
+  - [Git Kraken](https://www.gitkraken.com/)  
+    Interfejs graficzny do obsługi repozytoriów git
 
 ## Licencja <!-- omit in toc -->
 Projekt objęty jest licencją [GNU GPL 3][license]
+
+[root]: https://github.com/Pixel48/getLearn
 
 [_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn
 [last-commit]: https://github.com/Pixel48/getLearn/commit/master
