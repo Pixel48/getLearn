@@ -1,5 +1,5 @@
 # getLearn <!-- omit in toc -->
-[![_last-commit]][last-commit]
+[![_last-commit]][network]
 [![_commit-activity-m]][commits] <!-- [![_all-contributors]][contributions] -->
 [![_languages-count]][tags]
 [![_repo-size]][zip]
@@ -114,6 +114,7 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 
 [_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn
 [last-commit]: https://github.com/Pixel48/getLearn/commit/master
+[network]: https://github.com/Pixel48/getLearn/network
 
 [_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn
 [_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn
