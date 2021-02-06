@@ -64,7 +64,7 @@ W sytuacji, kiedy chcesz eksperymentować na plikach w projekcie lub poprać ca�
 ### Rozwijanie projektu
 Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję wybranej technologii, chcesz zaproponować nową kategorię lub po prostu zauważyłeś błąd - SUPER! Dzięki tobie ktoś lepiej zda egzamin ^^
 
-<p align="center" style="font-size:175%; padding-bottom:5px">Zapraszamy do sekcji <a href="docs/CONTRIBUTING.md"><em>Współpraca</em></a></p>
+<p align="center" style="font-size:x-large">Zapraszamy do sekcji <a href="docs/CONTRIBUTING.md"><em>Współpraca</em></a></p>
 
 ### Budowanie społeczności
 Jeżeli:
