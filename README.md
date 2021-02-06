@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://shields.io/badge/project_status-Work_in_progress-eb0?style=for-the-badge"/></p>
 
-<details>
+<details open>
 <summary>Spis treści</summary>
 
 - [Główne założenia projektu](#główne-założenia-projektu)
@@ -19,7 +19,7 @@
   - [Strony internetowe](#strony-internetowe)
   - [Serwery Discord](#serwery-discord)
   - [Repozytoria GitHub](#repozytoria-github)
-  - [Praca z Git](#praca-z-git)
+  - [Software](#software)
 </details>
 
 ## Główne założenia projektu
@@ -77,11 +77,23 @@ Jeżeli:
   - [ARKUSZE.PL/informatyka](https://arkusze.pl/informatyka-matura-poziom-rozszerzony/)  
     Archiwum arkuszy maturalnych z informatyki
 
-  - [w3schools.com](https://w3schools.com)  
-    Obszerna baza wiedzy z zakresu programowania
+  - [CodeRush](https://coderush.xyz/)  
+    Ćwiczenie szybkiego kodowania
     
   - [pythontutor.com](https://pythontutor.com)  
     Wizualizacja działania kodu
+
+  - [w3schools.com](https://w3schools.com)  
+    Obszerna baza wiedzy z zakresu programowania
+
+  - [Poragnik git](https://www.youtube.com/watch?v=D6EI7EbEN4Q&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH) by overment  
+    Dwugodzinny kurs dobrz wprowadzający w pracę z repozytoriami git
+
+  - [git jest git](https://rogerdudler.github.io/git-guide/index.pl.html)  
+    Streszczenie pracy z repozytoriami git
+
+  - [Markdown guide](https://www.markdownguide.org/)  
+    Wprowadzenie i zaawansowana nauka Markdown
 
 ### Serwery Discord
   - [Do matury](https://discord.gg/3hyj3kXQkt)  
@@ -89,6 +101,8 @@ Jeżeli:
 
   - [EE.08/EE.09](https://discord.gg/RJMZQEC)  
     Przygotowanie do egzaminów zawodowych (technik - informatyk) 
+
+
 
 ### Repozytoria GitHub
   - [Paste Into File](https://github.com/EslaMx7/PasteIntoFile)  
@@ -100,7 +114,7 @@ Jeżeli:
   - [MATURA-INFORMATYKA](https://github.com/wernexnrs123/MATURA-INFORMATYKA)  
     Oparty o markdown zbiór wiedzy teoretycznej
 
-### Praca z Git
+### Software
   - [Git for Windows](https://gitforwindows.org/)  
     Konsola git w systemie windows
 

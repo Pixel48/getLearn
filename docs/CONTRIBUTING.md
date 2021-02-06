@@ -1,7 +1,15 @@
 # Współpraca <!-- omit in toc -->
-<details>
+<details open>
 <summary><u>Spis treści</u></summary>
 
+- [Zgłaszanie błędów](#zgłaszanie-błędów)
+- [Dodawanie nowego projketu](#dodawanie-nowego-projketu)
+  - [Jak zacząć?](#jak-zacząć)
+  - [Co dalej?](#co-dalej)
+  - [Porządkowanie plików i wysyłanie zmian](#porządkowanie-plików-i-wysyłanie-zmian)
+    - [Rozwiązanie arkusza](#rozwiązanie-arkusza)
+    - [Rozwiązanie egzaminu kwalifikacyjnego](#rozwiązanie-egzaminu-kwalifikacyjnego)
+    - [Projekt](#projekt)
 - [Pull request & Direct access](#pull-request--direct-access)
   - [Jak uzyskać bezpośredni dostęp?](#jak-uzyskać-bezpośredni-dostęp)
     - [Wprowadzaj zmiany](#wprowadzaj-zmiany)
@@ -12,6 +20,12 @@
     - [Archiwizuj](#archiwizuj)
 </details>
 
+# Zgłaszanie błędów
+Przede wszystkim sprawdź, czy na gałęzi `develop` problem nie został już naprawiony lub czy problem nie został już zgłoszony
+
+Jeśli nie, opisz, jaki to problem i gdzie go znajdziemy [tutaj](https://github.com/Pixel48/getLearn/issues)
+
+# Dodawanie nowego projketu
 ## Jak zacząć?
 <details>
 <summary><u>Nowy w świecie gita?</u></summary>
