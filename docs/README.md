@@ -1,5 +1,5 @@
 # getLearn <!-- omit in toc -->
-[![_last-commit]][network]
+[![_last-commit]][commit]
 [![_commit-activity-m]][commits] <!-- [![_contributors]][contributions] -->
 [![_languages]][tags]
 [![_repo-size]][zip]
@@ -30,18 +30,18 @@ Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć
 
 <details open><summary>Lista kategorii planowanych i rozwijanych projektów</summary>
 
-  - [x] [Matura](/matura/)
-    - [x] [Informatyka rozszerzona](/matura/inf/)
+  - [x] [Matura](../matura/)
+    - [x] [Informatyka rozszerzona](../matura/inf/)
     - [ ] Matematyka rozszerzona
-  - [ ] [Kwalifikacje zawodowe](q/)
-    - [x] [Elektryczno - Elektroniczne](q/ee/)
+  - [ ] [Kwalifikacje zawodowe](../q/)
+    - [x] [Elektryczno - Elektroniczne](../q/ee/)
       - [ ] EE.09
-      - [x] [EE.08](q/ee/08)
+      - [x] [EE.08](../q/ee/08)
       - [ ] EE.03
-  - [x] [Programowanie](/programming/)
-    - [x] [C++](/programming/cpp/)
+  - [x] [Programowanie](../programming/)
+    - [x] [C++](../programming/cpp/)
     - [ ] Python
-    - [x] [JavaScript](programming/js/)
+    - [x] [JavaScript](../programming/js/)
     - [ ] PHP
     - [ ] SQL
   - [ ] GitHub
@@ -59,7 +59,7 @@ W sytuacji, kiedy chcesz eksperymentować na plikach w repozytorium lub pobrać 
 ### Rozwijanie projektu
 Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję wybranej technologii, chcesz zaproponować nową kategorię lub po prostu zauważyłeś błąd - SUPER! Dzięki tobie ktoś lepiej zda egzamin ^^
 
-<p align="center">Zapraszamy do sekcji <a href="docs/CONTRIBUTING.md">Współpraca</a></p>
+<p align="center">Zapraszamy do sekcji <a href="CONTRIBUTING.md">Współpraca</a></p>
 
 ### Budowanie społeczności
 Jeżeli:
@@ -126,9 +126,9 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 [_license]: https://shields.io/github/license/Pixel48/getLearn
 [_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn
 
+[commit]: https://github.com/Pixel48/getLearn/commit
 [commits]: https://github.com/Pixel48/getLearn/commits/master
 [contributions]: https://github.com/Pixel48/getLearn/graphs/contributors
-[last-commit]: https://github.com/Pixel48/getLearn/commit/master
 [license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
 [network]: https://github.com/Pixel48/getLearn/network
 [root]: https://github.com/Pixel48/getLearn
