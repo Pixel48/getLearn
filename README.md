@@ -8,7 +8,7 @@
 <p align="center"><img src="https://shields.io/badge/project_status-Work_in_progress-eb0?style=for-the-badge"/></p>
 
 <details open>
-<summary><u>Spis treści</u></summary>
+<summary>Spis treści</summary>
 
 - [Główne założenia projektu](#główne-założenia-projektu)
 - [Korzystanie z projektu](#korzystanie-z-projektu)
@@ -32,7 +32,7 @@ Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji 
 ## Korzystanie z projektu
 
 <details>
-<summary><u>Lista kategorii planowanych i rozwijanych projektów</u></summary>
+<summary>Lista kategorii planowanych i rozwijanych projektów</summary>
 
   - [x] [Matura](/matura/)
     - [x] [Informatyka rozszerzona](/matura/inf/)
@@ -64,7 +64,7 @@ W sytuacji, kiedy chcesz eksperymentować na plikach w projekcie lub poprać ca�
 ### Rozwijanie projektu
 Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję wybranej technologii, chcesz zaproponować nową kategorię lub po prostu zauważyłeś błąd - SUPER! Dzięki tobie ktoś lepiej zda egzamin ^^
 
-<p align="center">Zapraszamy do sekcji <a href="docs/CONTRIBUTING.md"><em>Współpraca</em></a></p>
+<p align="center">Zapraszamy do sekcji <a href="docs/CONTRIBUTING.md">Współpraca</a></p>
 
 ### Budowanie społeczności
 Jeżeli:
