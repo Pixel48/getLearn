@@ -1,7 +1,7 @@
 # getLearn <!-- omit in toc -->
 [![_last-commit]][network]
-[![_commit-activity-m]][commits] <!-- [![_all-contributors]][contributions] -->
-[![_languages-count]][tags]
+[![_commit-activity-m]][commits] <!-- [![_contributors]][contributions] -->
+[![_languages]][tags]
 [![_repo-size]][zip]
 [![_license]][license]
 
@@ -38,10 +38,9 @@ Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji 
     - [x] [Informatyka rozszerzona](/matura/inf/)
     - [ ] Matematyka rozszerzona
   - [ ] [Kwalifikacje zawodowe](q/)
-    - [x] [Technik-informatyk](q/ee/)
+    - [x] [Elektryczno - Elektroniczne](q/ee/)
       - [ ] EE.09
       - [x] [EE.08](q/ee/08)
-    - [ ] Technik-elektronik
       - [ ] EE.03
   - [x] [Programowanie](/programming/)
     - [x] [C++](/programming/cpp/)
@@ -124,25 +123,20 @@ Jeżeli:
 ## Licencja <!-- omit in toc -->
 Projekt objęty jest licencją [GNU GPL 3][license]
 
-[root]: https://github.com/Pixel48/getLearn
-
-[_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn
-[last-commit]: https://github.com/Pixel48/getLearn/commit/master
-[network]: https://github.com/Pixel48/getLearn/network
-
-[_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn
-[_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn
-[_commit-activity-y]: https://img.shields.io/github/commit-activity/y/Pixel48/getLearn
 [commits]: https://github.com/Pixel48/getLearn/commits/master
-
-[_all-contributors]: https://img.shields.io/github/all-contributors/Pixel48/getLearn
 [contributions]: https://github.com/Pixel48/getLearn/graphs/contributors
-
-[_languages-count]: https://shields.io/github/languages/count/Pixel48/getLearn
+[last-commit]: https://github.com/Pixel48/getLearn/commit/master
+[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
+[network]: https://github.com/Pixel48/getLearn/network
+[root]: https://github.com/Pixel48/getLearn
 [tags]: https://github.com/Pixel48/getLearn/releases
-
-[_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn
 [zip]: https://github.com/Pixel48/getLearn/archive/master.zip
 
+[_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn
+[_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn
+[_commit-activity-y]: https://img.shields.io/github/commit-activity/y/Pixel48/getLearn
+[_contributors]: https://img.shields.io/github/all-contributors/Pixel48/getLearn
+[_languages]: https://shields.io/github/languages/count/Pixel48/getLearn
+[_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn
 [_license]: https://shields.io/github/license/Pixel48/getLearn
-[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
+[_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn
