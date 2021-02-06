@@ -20,14 +20,6 @@
   - [Repozytoria GitHub](#repozytoria-github)
   - [Software](#software)
 </details>
-
-## Główne założenia projektu
-[getLearn][root] ma pomóc w  zbiorowej i zdecentralizowanej nauce oraz archiwizacji i opracowania przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
-
-Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nadzorowany przez osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
-
-## Korzystanie z projektu
-
 <details><summary>Lista kategorii planowanych i rozwijanych projektów</summary>
 
   - [x] [Matura](../matura/)
@@ -49,6 +41,13 @@ Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć
     - [ ] Markdown
     - [ ] Mathpix Markdown
 </details>
+
+## Główne założenia projektu
+[getLearn][root] ma pomóc w  zbiorowej i zdecentralizowanej nauce oraz archiwizacji i opracowania przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
+
+Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nadzorowany przez osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
+
+## Korzystanie z projektu
 
 ### Praca z projektem
 Jeżeli chcesz jedynie przejrzeć lub pobrać wybrane pliki, wbudowana przeglądarka repozytoriów [na górze strony](#) powinna wystarczyć
@@ -117,7 +116,7 @@ Jeżeli:
 Projekt objęty jest licencją [GNU GPL 3][license]
 
 [root]: https://github.com/Pixel48/getLearn
-[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
+[license]: https://github.com/Pixel48/getLearn/blob/master/docs/LICENSE
 
 [commit]: https://github.com/Pixel48/getLearn/commit
 [commits]: https://github.com/Pixel48/getLearn/commits/master
