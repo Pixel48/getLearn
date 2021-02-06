@@ -7,8 +7,7 @@
 
 <p align="center"><img src="https://shields.io/badge/project_status-Work_in_progress-eb0?style=for-the-badge"/></p>
 
-<details open>
-<summary>Spis treści</summary>
+<details><summary>Spis treści</summary>
 
 - [Główne założenia projektu](#główne-założenia-projektu)
 - [Korzystanie z projektu](#korzystanie-z-projektu)
@@ -27,12 +26,9 @@
 
 Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nadzorowany przez osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
 
-Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji [***Współpraca***](./docs/CONTRIBUTING.md)
-
 ## Korzystanie z projektu
 
-<details>
-<summary>Lista kategorii planowanych i rozwijanych projektów</summary>
+<details open><summary>Lista kategorii planowanych i rozwijanych projektów</summary>
 
   - [x] [Matura](/matura/)
     - [x] [Informatyka rozszerzona](/matura/inf/)
@@ -86,7 +82,7 @@ Jeżeli:
     Obszerna baza wiedzy z zakresu programowania
 
   - [Poragnik git](https://www.youtube.com/watch?v=D6EI7EbEN4Q&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH) by overment  
-    Dwugodzinny kurs dobrz wprowadzający w pracę z repozytoriami git
+    Dwugodzinny kurs dobrze wprowadzający w pracę z repozytoriami git
 
   - [git jest git](https://rogerdudler.github.io/git-guide/index.pl.html)  
     Streszczenie pracy z repozytoriami git
@@ -100,8 +96,6 @@ Jeżeli:
 
   - [EE.08/EE.09](https://discord.gg/RJMZQEC)  
     Przygotowanie do egzaminów zawodowych (technik - informatyk) 
-
-
 
 ### Repozytoria GitHub
   - [Paste Into File](https://github.com/EslaMx7/PasteIntoFile)  
@@ -123,15 +117,6 @@ Jeżeli:
 ## Licencja <!-- omit in toc -->
 Projekt objęty jest licencją [GNU GPL 3][license]
 
-[commits]: https://github.com/Pixel48/getLearn/commits/master
-[contributions]: https://github.com/Pixel48/getLearn/graphs/contributors
-[last-commit]: https://github.com/Pixel48/getLearn/commit/master
-[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
-[network]: https://github.com/Pixel48/getLearn/network
-[root]: https://github.com/Pixel48/getLearn
-[tags]: https://github.com/Pixel48/getLearn/releases
-[zip]: https://github.com/Pixel48/getLearn/archive/master.zip
-
 [_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn
 [_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn
 [_commit-activity-y]: https://img.shields.io/github/commit-activity/y/Pixel48/getLearn
@@ -140,3 +125,12 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 [_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn
 [_license]: https://shields.io/github/license/Pixel48/getLearn
 [_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn
+
+[commits]: https://github.com/Pixel48/getLearn/commits/master
+[contributions]: https://github.com/Pixel48/getLearn/graphs/contributors
+[last-commit]: https://github.com/Pixel48/getLearn/commit/master
+[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
+[network]: https://github.com/Pixel48/getLearn/network
+[root]: https://github.com/Pixel48/getLearn
+[tags]: https://github.com/Pixel48/getLearn/releases
+[zip]: https://github.com/Pixel48/getLearn/archive/master.zip
