@@ -28,7 +28,7 @@ Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć
 
 ## Korzystanie z projektu
 
-<details open><summary>Lista kategorii planowanych i rozwijanych projektów</summary>
+<details><summary>Lista kategorii planowanych i rozwijanych projektów</summary>
 
   - [x] [Matura](../matura/)
     - [x] [Informatyka rozszerzona](../matura/inf/)
@@ -117,6 +117,16 @@ Jeżeli:
 ## Licencja <!-- omit in toc -->
 Projekt objęty jest licencją [GNU GPL 3][license]
 
+[root]: https://github.com/Pixel48/getLearn
+[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
+
+[commit]: https://github.com/Pixel48/getLearn/commit
+[commits]: https://github.com/Pixel48/getLearn/commits/master
+[contributions]: https://github.com/Pixel48/getLearn/graphs/contributors
+[network]: https://github.com/Pixel48/getLearn/network
+[tags]: https://github.com/Pixel48/getLearn/releases
+[zip]: https://github.com/Pixel48/getLearn/archive/master.zip
+
 [_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn
 [_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn
 [_commit-activity-y]: https://img.shields.io/github/commit-activity/y/Pixel48/getLearn
@@ -125,12 +135,3 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 [_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn
 [_license]: https://shields.io/github/license/Pixel48/getLearn
 [_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn
-
-[commit]: https://github.com/Pixel48/getLearn/commit
-[commits]: https://github.com/Pixel48/getLearn/commits/master
-[contributions]: https://github.com/Pixel48/getLearn/graphs/contributors
-[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
-[network]: https://github.com/Pixel48/getLearn/network
-[root]: https://github.com/Pixel48/getLearn
-[tags]: https://github.com/Pixel48/getLearn/releases
-[zip]: https://github.com/Pixel48/getLearn/archive/master.zip
