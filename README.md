@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://shields.io/badge/project_status-Work_in_progress-eb0?style=for-the-badge"/></p>
 
-<details open>
+<details>
 <summary>Spis treści</summary>
 
 - [Główne założenia projektu](#główne-założenia-projektu)
@@ -31,7 +31,7 @@ Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji 
 
 ## Korzystanie z projektu
 
-<details>
+<details open>
 <summary>Lista kategorii planowanych i rozwijanych projektów</summary>
 
   - [x] [Matura](/matura/)
