@@ -59,7 +59,7 @@ Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji 
 ### Praca z projektem
 Jeżeli chcesz jedynie przejrzeć lub pobrać wybrane pliki, wbudowana przeglądarka repozytoriów [na górze strony](#) powinna wystarczyć
 
-W sytuacji, kiedy chcesz eksperymentować na plikach w repozytorium lub pobrać całą jego zawartość możesz je sklonować ( `git clone` ) lub użyć zielonego przycisku <code style="color:green">Code</code> [na górze strony](#)
+W sytuacji, kiedy chcesz eksperymentować na plikach w repozytorium lub pobrać całą jego zawartość możesz je sklonować ( `git clone` ) lub użyć zielonego przycisku `Code` [na górze strony](#)
 
 ### Rozwijanie projektu
 Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję wybranej technologii, chcesz zaproponować nową kategorię lub po prostu zauważyłeś błąd - SUPER! Dzięki tobie ktoś lepiej zda egzamin ^^
