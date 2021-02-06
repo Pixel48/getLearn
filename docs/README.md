@@ -127,11 +127,11 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 [tags]: https://github.com/Pixel48/getLearn/releases
 [zip]: https://github.com/Pixel48/getLearn/archive/master.zip
 
-[_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn
-[_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn
-[_commit-activity-y]: https://img.shields.io/github/commit-activity/y/Pixel48/getLearn
-[_contributors]: https://img.shields.io/github/all-contributors/Pixel48/getLearn
-[_languages]: https://shields.io/github/languages/count/Pixel48/getLearn
-[_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn
-[_license]: https://shields.io/github/license/Pixel48/getLearn
-[_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn
+[_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn?style=flat
+[_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn?style=flat
+[_commit-activity-y]: https://img.shields.io/github/commit-activity/y/Pixel48/getLearn?style=flat
+[_contributors]: https://img.shields.io/github/all-contributors/Pixel48/getLearn?style=flat
+[_languages]: https://shields.io/github/languages/count/Pixel48/getLearn?style=flat
+[_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn?style=flat
+[_license]: https://shields.io/github/license/Pixel48/getLearn?color=d00&style=flat
+[_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn?style=flat
