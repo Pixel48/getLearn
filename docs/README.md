@@ -35,7 +35,7 @@ Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć
     - [ ] Matematyka rozszerzona
   - [ ] [Kwalifikacje zawodowe](../q/)
     - [x] [Elektryczno - Elektroniczne](../q/ee/)
-      - [ ] EE.09
+      - [x] [EE.09](../q/ee/09)
       - [x] [EE.08](../q/ee/08)
       - [ ] EE.03
   - [x] [Programowanie](../programming/)
