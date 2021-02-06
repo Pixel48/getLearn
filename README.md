@@ -31,7 +31,7 @@ Osoby zainteresowane aktywnym udziałem w rozwój projektu zapraszamy do sekcji 
 
 ## Korzystanie z projektu
 
-<details open>
+<details>
 <summary>Lista kategorii planowanych i rozwijanych projektów</summary>
 
   - [x] [Matura](/matura/)
