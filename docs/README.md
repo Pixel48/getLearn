@@ -3,7 +3,7 @@
 [![_commit-activity-m]][commits] <!-- [![_contributors]][contributions] -->
 [![_languages]][tags]
 [![_repo-size]][zip]
-[![_license]][license]
+[![_license]][license] <!-- ![_watchers][watch] -->
 
 <p align="center"><img src="https://shields.io/badge/project_status-Work_in_progress-eb0?style=for-the-badge"/></p>
 
@@ -13,7 +13,6 @@
 - [Korzystanie z projektu](#korzystanie-z-projektu)
   - [Praca z projektem](#praca-z-projektem)
   - [Rozwijanie projektu](#rozwijanie-projektu)
-  - [Budowanie społeczności](#budowanie-społeczności)
 - [Przydatne linki](#przydatne-linki)
   - [Strony internetowe](#strony-internetowe)
   - [Serwery Discord](#serwery-discord)
@@ -52,18 +51,12 @@ Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć
 ### Praca z projektem
 Jeżeli chcesz jedynie przejrzeć lub pobrać wybrane pliki, wbudowana przeglądarka repozytoriów [na górze strony](#) powinna wystarczyć
 
-W sytuacji, kiedy chcesz eksperymentować na plikach w repozytorium lub pobrać całą jego zawartość możesz je sklonować ( `git clone` ) lub użyć zielonego przycisku `Code` [na górze strony](#)
+W sytuacji, kiedy chcesz eksperymentować na plikach w repozytorium lub pobrać całą jego zawartość, warto je sklonować
 
 ### Rozwijanie projektu
 Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję wybranej technologii, chcesz zaproponować nową kategorię lub po prostu zauważyłeś błąd - SUPER! Dzięki tobie ktoś lepiej zda egzamin ^^
 
 <p align="center">Zapraszamy do sekcji <a href="CONTRIBUTING.md">Współpraca</a></p>
-
-### Budowanie społeczności
-Jeżeli:
-- znasz maturzystę lub przyszłego technika informatyki - podlinkuj mu [link][root]
-- nauczyłeś się tu czegoś wartościowego - rozważ [zostawienie gwiazdki](#)
-- chcesz być na bierząco z nowymi projektami - pomyśl o [obserwacji repozytorium](#) 
 
 ## Przydatne linki
 ### Strony internetowe
@@ -89,15 +82,15 @@ Jeżeli:
     Wprowadzenie i zaawansowana nauka Markdown
 
 ### Serwery Discord
-  - [Do matury](https://discord.gg/3hyj3kXQkt)  
-    Przygotowanie do matury
+  - ![Do matury](https://shields.io/discord/796048059507015732?label=Do%20matury&logo=discord&style=social&link=https://discord.gg/3hyj3kXQkt)  
+    Wspólna nauka do matury, nir tylko z informatyki
 
-  - [EE.08/EE.09](https://discord.gg/RJMZQEC)  
-    Przygotowanie do egzaminów zawodowych (technik - informatyk) 
+  - ![EE.08/EE.09](https://shields.io/discord/723560181996191914?label=EE.08%2FEE.09&logo=discord&style=social&link=https://discord.gg/RJMZQEC)  
+    Przygotowanie do egzaminów zawodowych EE.08 i EE.09
 
 ### Repozytoria GitHub
   - [Paste Into File](https://github.com/EslaMx7/PasteIntoFile)  
-    Program dodający do menu kontekstowego opcję wklejenia zawartości schowka bezpośrednio do nowo utworzonego pliku we skazanej lokalizacji
+    Program dodający do menu kontekstowego opcję wklejenia zawartości schowka bezpośrednio do nowo utworzonego pliku we wskazanej lokalizacji
 
   - [pyinstaller](https://github.com/pyinstaller/pyinstaller)  
     Zamyka skrypty python'a w plikach wykonywalnych Windows'a
@@ -124,6 +117,7 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 [network]: https://github.com/Pixel48/getLearn/network
 [tags]: https://github.com/Pixel48/getLearn/releases
 [zip]: https://github.com/Pixel48/getLearn/archive/master.zip
+[watch]: https://github.com/Pixel48/getLearn/subscribe
 
 [_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn?style=flat
 [_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn?style=flat
@@ -133,3 +127,4 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 [_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn?style=flat
 [_license]: https://shields.io/github/license/Pixel48/getLearn?color=d00&style=flat
 [_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn?style=flat
+[_watchers]: (https://shields.io/github/watchers/Pixel48/getLearn?label=Watch?style=social)
