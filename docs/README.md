@@ -3,8 +3,7 @@
 [![_commit-activity-m]][commits] <!-- [![_contributors]][contributions] -->
 [![_languages]][tags]
 [![_repo-size]][zip]
-[![_license]][license]  
-![_watchers]
+[![_license]][license] <!-- ![_watchers][watch] -->
 
 <p align="center"><img src="https://shields.io/badge/project_status-Work_in_progress-eb0?style=for-the-badge"/></p>
 
@@ -91,7 +90,7 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
 
 ### Repozytoria GitHub
   - [Paste Into File](https://github.com/EslaMx7/PasteIntoFile)  
-    Program dodający do menu kontekstowego opcję wklejenia zawartości schowka bezpośrednio do nowo utworzonego pliku we skazanej lokalizacji
+    Program dodający do menu kontekstowego opcję wklejenia zawartości schowka bezpośrednio do nowo utworzonego pliku we wskazanej lokalizacji
 
   - [pyinstaller](https://github.com/pyinstaller/pyinstaller)  
     Zamyka skrypty python'a w plikach wykonywalnych Windows'a
@@ -118,6 +117,7 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 [network]: https://github.com/Pixel48/getLearn/network
 [tags]: https://github.com/Pixel48/getLearn/releases
 [zip]: https://github.com/Pixel48/getLearn/archive/master.zip
+[watch]: https://github.com/Pixel48/getLearn/subscribe
 
 [_commit-activity-m]: https://img.shields.io/github/commit-activity/m/Pixel48/getLearn?style=flat
 [_commit-activity-w]: https://img.shields.io/github/commit-activity/w/Pixel48/getLearn?style=flat
@@ -127,4 +127,4 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 [_last-commit]: https://shields.io/github/last-commit/Pixel48/getLearn?style=flat
 [_license]: https://shields.io/github/license/Pixel48/getLearn?color=d00&style=flat
 [_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn?style=flat
-[_watchers]: (https://shields.io/github/watchers/Pixel48/getLearn?label=Watch?style=social&link=https://github.com/Pixel48/getLearn/subscribe&link=https://github.com/Pixel48/getLearn/watchers)
+[_watchers]: (https://shields.io/github/watchers/Pixel48/getLearn?label=Watch?style=social)
