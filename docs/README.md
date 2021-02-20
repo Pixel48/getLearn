@@ -31,7 +31,7 @@
       - [ ] EE.03
   - [x] [Programowanie](../programming/)
     - [x] [C++](../programming/cpp/)
-    - [ ] Python
+    - [x] Python
     - [x] [JavaScript](../programming/js/)
     - [x] [PHP](../programming/php/)
   - [ ] GitHub
@@ -81,6 +81,9 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
   - [Markdown guide](https://www.markdownguide.org/)  
     Wprowadzenie i zaawansowana nauka Markdown
 
+  - [Choose a license](https://choosealicense.com/)  
+    Pomoc w wyborze licencji dla projektu Open Source
+
 ### Serwery Discord
   - ![Do matury](https://shields.io/discord/796048059507015732?label=Do%20matury&logo=discord&style=social&link=https://discord.gg/3hyj3kXQkt)  
     Wspólna nauka do matury, nir tylko z informatyki
@@ -102,8 +105,11 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
   - [Git for Windows](https://gitforwindows.org/)  
     Konsola git w systemie windows
 
+  - [GitHub Desktop](https://desktop.github.com/)  
+    Interfejs graficzny git zintegrowany z GitHub
+
   - [Git Kraken](https://www.gitkraken.com/)  
-    Interfejs graficzny do obsługi repozytoriów git
+    Interfejs graficzny git
 
 ## Licencja <!-- omit in toc -->
 Projekt objęty jest licencją [GNU GPL 3][license]
