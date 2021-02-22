@@ -31,7 +31,7 @@
       - [ ] EE.03
   - [x] [Programowanie](../programming/)
     - [x] [C++](../programming/cpp/)
-    - [x] Python
+    - [x] [Python](../programming/python/)
     - [x] [JavaScript](../programming/js/)
     - [x] [PHP](../programming/php/)
   - [ ] GitHub
@@ -45,6 +45,10 @@
 [getLearn][root] ma pomóc w  zbiorowej i zdecentralizowanej nauce oraz archiwizacji i opracowania przez społeczność materiałów do nauki, zarówno dla pasjonatów chcących aktywnie rozwijać się w kierunkach informatycznych, jak i dla osób, które po prostu chcą zdać swoje egzaminy
 
 Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nadzorowany przez osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
+
+<p align="center">
+  Jeżeli uważasz ten projekt za przydatny, rozważ przypięcie gwiazdki, podzielenie się nim e znajomymi, włączenie powiadomień czy współpracy
+</p>
 
 ## Korzystanie z projektu
 
