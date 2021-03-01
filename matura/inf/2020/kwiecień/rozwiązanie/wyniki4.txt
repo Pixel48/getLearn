@@ -1,0 +1,15 @@
+4.1
+	Najmniejsza luka:  1
+	Największa luka:  1056392131
+4.2
+	Początek najdłuższego ciągu:  196175643
+	Koniec najdłuższego ciągu:  223545714
+	Długość:  16
+4.3
+	Największa krotność:  31
+	Największe luki: 149
+	Największe luki: 11
+4.2
+	Początek najdłuższego ciągu:  193134524
+	Koniec najdłuższego ciągu:  223545714
+	Długość:  17
