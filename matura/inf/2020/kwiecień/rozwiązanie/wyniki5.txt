@@ -1,0 +1,36 @@
+5.1
+
+Temperatura <= 15				88
+Temperatura > 15 i opady <= 0,61 l/m^2		22
+Temperatura > 15 i opady > 0,61 l/m^2		73
+
+
+5.2
+					Data:		Ilość:
+Pierwsze uzupełnienie zbiornika		06.05.2015	13171 Litrów
+		
+5.4
+	Miesiące	Miesięczny koszt:
+	kwiecień	0,00 zł
+	maj		164,36 zł
+	czerwiec	1 056,60 zł
+	lipiec		2 559,32 zł
+	sierpień	3 651,14 zł
+	wrzesień	1 326,62 zł
+
+	5.1
+	Temperatura <= 15	88
+	Temperatura > 15 i opady <= 0,61 l/m^2	73
+	Temperatura > 15 i opady > 0,61 l/m^2	22
+
+5.4
+		
+	Miesiące	Kosz za wodę w miesiącu
+	kwiecień		0
+	maj			164360
+	czerwiec		1056600
+	lipiec			2559320
+	sierpień		3651140
+	wrzesień		1326620
+	Suma końcowa		8758040
+
