@@ -28,7 +28,6 @@
     - [x] [Elektryczno - Elektroniczne](../q/ee/)
       - [x] [EE.09](../q/ee/09)
       - [x] [EE.08](../q/ee/08)
-      - [ ] EE.03
   - [x] [Programowanie](../programming/)
     - [x] [C++](../programming/cpp/)
     - [x] [Python](../programming/python/)
@@ -47,7 +46,7 @@
 Projekt ma być dynamicznym archiwum rozwijającym się z biegiem lat, służyć jako baza wiedzy i poligon doświadczalny, nadzorowany przez osoby obeznane z technologią wykorzystywaną w rozwijanych projektach. Nadzór ten będzie rozszerzany i przekazywany w miarę rozrastania się repozytorium o kolejne projekty, języki programowania i technologie
 
 <p align="center">
-  Jeżeli uważasz ten projekt za przydatny, rozważ przypięcie gwiazdki, podzielenie się nim e znajomymi, włączenie powiadomień czy współpracy
+  Jeżeli uważasz ten projekt za przydatny, rozważ przypięcie gwiazdki, podzielenie się nim ze znajomymi, włączenie powiadomień czy współpracy
 </p>
 
 ## Korzystanie z projektu
@@ -69,7 +68,7 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
 
   - [CodeRush](https://coderush.xyz/)  
     Ćwiczenie szybkiego kodowania
-    
+
   - [pythontutor.com](https://pythontutor.com)  
     Wizualizacja działania kodu
 
@@ -101,7 +100,7 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
 
   - [pyinstaller](https://github.com/pyinstaller/pyinstaller)  
     Zamyka skrypty python'a w plikach wykonywalnych Windows'a
-  
+
   - [MATURA-INFORMATYKA](https://github.com/wernexnrs123/MATURA-INFORMATYKA)  
     Oparty o markdown zbiór wiedzy teoretycznej
 
