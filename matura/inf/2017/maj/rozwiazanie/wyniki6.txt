@@ -1,0 +1,12 @@
+6.1
+    Najciemniejszy pixel: 7
+    Najjaśniejszy pixel: 221
+
+6.2
+    Należy usunąć: 149 pixeli
+
+6.3
+    Kontrastowych pixeli: 753
+
+6.4
+    Dlugość najdłuższej linii pionowej: 5

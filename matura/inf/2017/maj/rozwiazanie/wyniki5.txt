@@ -1,0 +1,21 @@
+5.1
+ a)
+	Rodzaj_meczu	Ilość meczy pucharowych
+		L		113
+		P		25
+		T		6
+b)
+	Rocznik		Ilość rozegranych meczy
+	2007			21
+
+5.2
+	Nazwa
+	Nocne Pumy
+	Zwinne Mewy
+5.3
+	Wygrane	 Remisy	Przegrane
+	   579	   170	   452
+
+5.4
+	Ilość sędziów:
+	22
