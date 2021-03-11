@@ -99,3 +99,8 @@ Traktuj innych z szacunkiem, nie używaj przekleństw jako interpunkcji. Bądź 
 
 ### Archiwizuj
 Jeżeli uczestniczysz w lekcji, nagraj ją (oczywiście **za zgodą prowadzącego**); Jeżeli nauczyciel nie wrzuci projektu do repozytorium, poproś go o pliki (i spytaj, czy ty możesz to zrobić). Nagranie będzie można wrzucić obok świerzego projektu. Dla kogoś to może być kwestia jego *"Być albo nie być"*
+
+## Licencja <!-- omit in toc -->
+Projekt objęty jest licencją [GNU GPL 3][license]
+
+[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
