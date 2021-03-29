@@ -118,7 +118,7 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
 Projekt objęty jest licencją [GNU GPL 3][license]
 
 [root]: https://github.com/Pixel48/getLearn
-[license]: https://github.com/Pixel48/getLearn/blob/master/docs/LICENSE
+[license]: https://github.com/Pixel48/getLearn/blob/master/LICENSE
 
 [commit]: https://github.com/Pixel48/getLearn/commit
 [commits]: https://github.com/Pixel48/getLearn/commits/master
