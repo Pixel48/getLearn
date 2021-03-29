@@ -14,10 +14,10 @@
   - [Praca z projektem](#praca-z-projektem)
   - [Rozwijanie projektu](#rozwijanie-projektu)
 - [Przydatne linki](#przydatne-linki)
-  - [Strony internetowe](#strony-internetowe)
   - [Serwery Discord](#serwery-discord)
   - [Repozytoria GitHub](#repozytoria-github)
-  - [Software](#software)
+  - [Strony internetowe](#strony-internetowe)
+  - [Oprogramowanie](#oprogramowanie)
 </details>
 <details><summary>Lista kategorii planowanych i rozwijanych projektów</summary>
 
@@ -62,6 +62,20 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
 <p align="center">Zapraszamy do sekcji <a href="CONTRIBUTING.md">Współpraca</a></p>
 
 ## Przydatne linki
+### Serwery Discord
+  - [![_do-matury]][do-matury]  
+    Wspólna nauka do matury, nie tylko z informatyki
+
+  - [![_ee08]][ee08]  
+    Przygotowanie do egzaminów zawodowych EE.08 i EE.09
+
+### Repozytoria GitHub
+  - [MATURA-INFORMATYKA](https://github.com/wernexnrs123/MATURA-INFORMATYKA)  
+    Oparty o markdown zbiór wiedzy teoretycznej
+
+  - [Arkusze_informatyka_Python](https://github.com/Jack477/Arkusze_informatyka_Python)  
+    Rozwiązania do matury z informatyki w pythonie
+
 ### Strony internetowe
   - [ARKUSZE.PL/informatyka](https://arkusze.pl/informatyka-matura-poziom-rozszerzony/)  
     Archiwum arkuszy maturalnych z informatyki
@@ -87,21 +101,7 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
   - [Choose a license](https://choosealicense.com/)  
     Pomoc w wyborze licencji dla projektu Open Source
 
-### Serwery Discord
-  - [![_do-matury]][do-matury]  
-    Wspólna nauka do matury, nie tylko z informatyki
-
-  - [![_ee08]][ee08]  
-    Przygotowanie do egzaminów zawodowych EE.08 i EE.09
-
-### Repozytoria GitHub
-  - [MATURA-INFORMATYKA](https://github.com/wernexnrs123/MATURA-INFORMATYKA)  
-    Oparty o markdown zbiór wiedzy teoretycznej
-
-  - [Arkusze_informatyka_Python](https://github.com/Jack477/Arkusze_informatyka_Python)  
-    Rozwiązania do matury z informatyki w pythonie
-
-### Software
+### Oprogramowanie
   - [Flameshot](https://github.com/flameshot-org/flameshot)  
     Niezwykle wygodna alternatywa dla *Narzęzdzia Wycinania* Windows'a
 
