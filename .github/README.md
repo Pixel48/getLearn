@@ -67,7 +67,7 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
     Archiwum arkuszy maturalnych z informatyki
 
   - [CodeRush](https://coderush.xyz/)  
-    Ćwiczenie szybkiego kodowania
+    Ćwiczenie szybkiego kodowania w wybranym języku
 
   - [pythontutor.com](https://pythontutor.com)  
     Wizualizacja działania kodu
@@ -88,23 +88,29 @@ Jeżeli chcesz umieścić swoje rozwiązanie arkusza, projekt do nauki, lekcję 
     Pomoc w wyborze licencji dla projektu Open Source
 
 ### Serwery Discord
-  - ![Do matury](https://shields.io/discord/796048059507015732?label=Do%20matury&logo=discord&style=social&link=https://discord.gg/3hyj3kXQkt)  
-    Wspólna nauka do matury, nir tylko z informatyki
+  - [![_do-matury]][do-matury]  
+    Wspólna nauka do matury, nie tylko z informatyki
 
-  - ![EE.08/EE.09](https://shields.io/discord/723560181996191914?label=EE.08%2FEE.09&logo=discord&style=social&link=https://discord.gg/RJMZQEC)  
+  - [![_ee08]][ee08]  
     Przygotowanie do egzaminów zawodowych EE.08 i EE.09
 
 ### Repozytoria GitHub
+  - [MATURA-INFORMATYKA](https://github.com/wernexnrs123/MATURA-INFORMATYKA)  
+    Oparty o markdown zbiór wiedzy teoretycznej
+
+  - [Arkusze_informatyka_Python](https://github.com/Jack477/Arkusze_informatyka_Python)  
+    Rozwiązania do matury z informatyki w pythonie
+
+### Software
+  - [Flameshot](https://github.com/flameshot-org/flameshot)  
+    Niezwykle wygodna alternatywa dla *Narzęzdzia Wycinania* Windows'a
+
   - [Paste Into File](https://github.com/EslaMx7/PasteIntoFile)  
     Program dodający do menu kontekstowego opcję wklejenia zawartości schowka bezpośrednio do nowo utworzonego pliku we wskazanej lokalizacji
 
   - [pyinstaller](https://github.com/pyinstaller/pyinstaller)  
     Zamyka skrypty python'a w plikach wykonywalnych Windows'a
 
-  - [MATURA-INFORMATYKA](https://github.com/wernexnrs123/MATURA-INFORMATYKA)  
-    Oparty o markdown zbiór wiedzy teoretycznej
-
-### Software
   - [Git for Windows](https://gitforwindows.org/)  
     Konsola git w systemie windows
 
@@ -137,3 +143,8 @@ Projekt objęty jest licencją [GNU GPL 3][license]
 [_license]: https://shields.io/github/license/Pixel48/getLearn?color=d00&style=flat
 [_repo-size]: https://shields.io/github/repo-size/Pixel48/getLearn?style=flat
 [_watchers]: (https://shields.io/github/watchers/Pixel48/getLearn?label=Watch?style=social)
+
+[_do-matury]: https://shields.io/discord/796048059507015732?label=Do%20matury&logo=discord&style=social&link=https://discord.gg/3hyj3kXQkt
+[do-matury]: https://discord.gg/3hyj3kXQkt
+[_ee08]: https://shields.io/discord/723560181996191914?label=EE.08%2FEE.09&logo=discord&style=social&link=https://discord.gg/RJMZQEC
+[ee08]: https://discord.gg/RJMZQEC
