@@ -1,0 +1,53 @@
+Zadanie 5.1
+
+	Rodzina	                 PoliczOfJezyk
+    nigero-kongijska    	    137
+    austronezyjska	            65
+    indoeuropejska	            63
+    sino-tybetanska	            43
+    nilo-saharyjska	            30
+    afroazjatycka	            28
+    dajska	                    23
+    austroazjatycka	            20
+    turecka	                    15
+    drawidyjska	                15
+    jezyk izolowany 	        8
+    polnocno-wschodniokaukaska	7
+    otomang	                    7
+    mongolska	                5
+    majanska	                5
+    hmong-mien	4
+    abchasko-adygijska	3
+    uralska	3
+    uto-aztecka	1
+    na-dene	1
+    tungusko-mandzurska	1
+    tupi	1
+    algijska	1
+    keczua	1
+
+Zadanie 5.2
+	
+	Liczba języków nie urzędowych : 445
+
+Zadanie 5.3
+	PoliczOfKontynent	Jezyk
+		4		angielski
+		5		arabski
+		4		gudzaracki
+		4		tamilski
+	
+Zadanie 5.4
+	Jezyk		SumaOfUzytkownicy	Rodzina
+	mandarynski		3,1		sino-tybetanska
+	arabski			2,7		afroazjatycka
+	tagalog			1,9		austronezyjska
+	wietnamski		1,5		austroazjatycka
+	nahuatl			1,4		uto-aztecka
+	koreanski		1,2		jezyk izolowany
+
+Zadanie 5.5
+	Panstwo		Jezyk		Procent
+	Indonezja	jawajski	33
+	Pakistan	pendzabski	40
+	Etiopia		oromo		36
