@@ -11,26 +11,25 @@
 //  QQQQQ
 //    M
 
+#include <string>
+#include <iostream>
 
-#include <bits/stdc++.h>
-#include <ctime>
 using namespace std;
 
 void tree(int size) {
    int i = 0;
+
    for(int s = size - 1; s >= 0; s--) {
-      cout << string(s, ' ') << string(i*2 + 1, 'Q') << endl;
+      cout << string(s, ' ') << string(i * 2 + 1, 'Q') << endl;
       i++;
-   } cout << string((size-1), ' ') << 'M' << endl;
+   } 
+
+   cout << string(size - 1, ' ') << 'M' << endl;
 }
 
-main() {
-   int a;
-   cin>>a;  
-   int spacja = a-1;
-   int znak = 1;
+int main() {
+   int size;
+   cin >> size; 
 
-   tree(a);
-   
-   return 0;
+   tree(size);
 }
